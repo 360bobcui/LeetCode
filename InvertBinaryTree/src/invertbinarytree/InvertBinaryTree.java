@@ -3,20 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package happynumber;
+package invertbinarytree;
 
 /**
  *
  * @author menglu
  */
-public class HappyNumber {
+public class InvertBinaryTree {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int n = 19;
-        System.out.println(new Solution().isHappy(n));
+        // TODO code application logic here
     }
     
 }
